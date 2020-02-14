@@ -1,22 +1,22 @@
 # A03
 
-GIT
+GIT - A software that controls and tracks any changes done in sourcecode during development. 
 
-GITHUB
+GITHUB- Hosting service for software development projects and it uses GIT to track changes in the code.
 
-Repository
+Repository- A folder a specific project and it contains the code and revision history.
 
-Clone
+Clone-This command allows you to download a copy of the repository o your local computer and edit it so you don't change the original code.
 
-Commit
+Commit-A commit is like a save button and withe very revision to the code, you must commit and specify what changed.
 
-Push
+Push-uploading a repository to a online hosting service such as GitHub. It basically sends the file from your local folder to a remote hosting service.
 
-Pull
+Pull- informs other people on your team about any changes that were made to the repository. Pulls changes and adds them to your repository for review.
 
-Branch
+Branch-A set of code changes with different names.
 
-Merge
+Merge-
 
 Merge Conflict
 
