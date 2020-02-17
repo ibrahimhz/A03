@@ -26,7 +26,7 @@ Remote-common repository that all team memebrs can use to work on.
 
 Tutorial on how to send code from html to github:
 
-1st: open a html file
+1st: open a html file in Webstorm
 
 2nd: type your code
 
