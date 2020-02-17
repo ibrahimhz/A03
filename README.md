@@ -16,10 +16,10 @@ Pull- informs other people on your team about any changes that were made to the 
 
 Branch-A set of code changes with different names.
 
-Merge-
+Merge- To integrate independednt lines of development into a single branch.
 
-Merge Conflict
+Merge Conflict- this happens which Git is not able to resolve the differences in code between commits automatically.
 
-Fetch
+Fetch-downloads files, refs, commits from an online repository into a local repo.
 
-Remote
+Remote-common repository that all team memebrs can use to work on.
