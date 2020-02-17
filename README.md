@@ -25,8 +25,13 @@ Fetch-downloads files, refs, commits from an online repository into a local repo
 Remote-common repository that all team memebrs can use to work on.
 
 Tutorial on how to send code from html to github:
+
 1st: open a html file
+
 2nd: type your code
+
 3rd: Click on VCS, then hover over import into version control, then clcik on creat a repository
+
 4th: click on VCS then hover over GIT and click on commit to save changes
+
 5th: Then click on VCS again, hover over import into version control, then click on share project on GitHUB
